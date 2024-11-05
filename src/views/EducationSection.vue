@@ -2,7 +2,7 @@
     <div class="container-fluid" id="resume">
       <div class="container min-vh-100 d-flex flex-row align-items-center">
         <div class="row">
-          <h1 class="pb-2">My education</h1>
+          <h1 class="pb-2">My Education</h1>
           <div class="col-lg-12" >
             <div class="horizontal-timeline">
               <ul class="list-inline items">
@@ -162,8 +162,20 @@
     padding-top: 5rem;
 }
 
-
-    
+.pt-2{
+  font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 50rem;
+        font-style: normal;
+        color: aliceblue;
+}
+.event-date {
+  font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 50rem;
+        font-style: normal;
+        color: #765b4d !important;
+}
 
 </style>
 

@@ -25,9 +25,7 @@
                           <div class="col-12">
                             <h3 class="card__title">{{ project.name }}</h3>            
                           </div>
-                          <div class="col-12">
-                            <span class="card__status">1 month ago</span>
-                          </div>
+                         
                         </div>
                       </div>
                       <p class="card__description">{{ project.description }}</p>
@@ -56,12 +54,10 @@
                           <div class="col-12">
                             <h3 class="card__title">Scrum Project</h3>            
                           </div>
-                          <div class="col-12">
-                            <span class="card__status">1 month ago</span>
-                          </div>
+                          
                         </div>
                       </div>
-                      <p class="card__description">Id, vitae perferendis eveniet unde natus qui assumenda molestiae saepe</p>
+                      <p class="card__description">In this case study, I share our SCRUM-based approach to planning and designing a mobile app for a fast-food chain, with links to key resources.</p>
                       <div class="buttonsThingy">
                         <div class="col d-flex flex-row justify-content-around">
                           <a class="btn" href="https://drive.google.com/file/d/1q6yU1ushl6gu2qr9no3EsqoEwvsPEdQZ/view" target="_blank">VIEW</a>
@@ -83,12 +79,10 @@
                           <div class="col-12">
                             <h3 class="card__title">UI/UX Hackathan</h3>            
                           </div>
-                          <div class="col-12">
-                            <span class="card__status">1 month ago</span>
-                          </div>
+                         
                         </div>
                       </div>
-                      <p class="card__description">Id, vitae perferendis eveniet unde natus qui assumenda molestiae saepe</p>
+                      <p class="card__description">This case study covers our SCRUM-based approach to planning and designing a mobile app for a fast-food chain, with links to key resources.</p>
                       <div class="buttonsThingy">
                         <div class="col d-flex flex-row justify-content-around">
                           <a class="btn" href="https://drive.google.com/file/d/1q6yU1ushl6gu2qr9no3EsqoEwvsPEdQZ/view" target="_blank">VIEW</a>
@@ -249,7 +243,13 @@
   .card__title {
   font-size: 1em;
   margin: 0 0 .3em;
-  color: #6A515E;
+  color: #6A515E !important;
+  font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 50rem;
+        font-style: normal;
+        color: aliceblue;
+
   }
   
   .card__tagline {
@@ -273,11 +273,17 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   overflow: hidden;
-  background-color: #886342;
+  background-color: #765b4d;
+  font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 50rem;
+        font-style: normal;
+        color: aliceblue !important;
+
   }
   
   .buttonsThingy {
-  background-color: #886342;
+  background-color: #765b4d;
   }
   
   * {
@@ -293,7 +299,13 @@
   }
   
   .btn {
-  background-color: #6A515E;
+  background-color: #ceaa9a;
+  font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 50rem;
+        font-style: normal;
+        color: aliceblue !important;
+
   }
   
   @media only screen and (max-width: 935px) {

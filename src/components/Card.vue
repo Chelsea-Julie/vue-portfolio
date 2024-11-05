@@ -23,6 +23,11 @@ export default {
         background-color: white;
         width: 10rem !important;
         height: 10rem;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 50rem;
+        font-style: normal;
+      
     }
 
 </style>

@@ -276,5 +276,12 @@ section {
 #reachme{
     padding-top: 3rem;
 }
-    
+.contact-form .input-box input:focus ~ span,
+.contact-form .input-box input:not(:placeholder-shown) ~ span,
+.contact-form .input-box textarea:focus ~ span,
+.contact-form .input-box textarea:not(:placeholder-shown) ~ span {
+  color: #ceaa9a;
+  font-size: 12px;
+  transform: translateY(-20px);
+}
 </style>
