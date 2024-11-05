@@ -3,7 +3,7 @@
       <div class="container min-vh-100 d-flex flex-row align-items-center">
         <div class="row">
           <h1 class="pb-2">My education</h1>
-          <div class="col-lg-12">
+          <div class="col-lg-12" >
             <div class="horizontal-timeline">
               <ul class="list-inline items">
 
@@ -34,8 +34,10 @@
               </ul>
             </div>
           </div>
+
+
           <h1 class="pb-2">My Experience</h1>
-          <div class="col-lg-12">
+          <div class="col-lg-12" >
             <div class="horizontal-timeline">
               <ul class="list-inline items">
 

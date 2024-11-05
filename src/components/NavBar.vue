@@ -72,5 +72,12 @@
     color: aliceblue;
     font-family: "Playfair Display", serif;
   }
+
+  .nav-link:hover{
+    color: aliceblue;
+    text-decoration: underline;
+  }
+
+  
   </style>
   

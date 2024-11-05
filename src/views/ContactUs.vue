@@ -9,7 +9,7 @@
                   <h1 class="welcome">
                     Contact Me<i class="bi bi-person-lines-fill"></i>
                   </h1>
-                  <p>For any inquiries, feedback, or assistance, please don't hesitate to reach out to me. I am here to address your concerns and provide you with the support you need. You can contact us via email, by phone, or by filling out the contact form below. Your satisfaction is our priority, and we look forward to hearing from you and assisting you in any way we can.
+                  <p>If you’d like to connect or discuss opportunities, feel free to reach out! I’m always open to collaborating on exciting projects, sharing ideas, or answering any questions you may have about my work. Whether you’re interested in a potential partnership, have a project in mind, or simply want to say hello, don’t hesitate to get in touch. You can reach me directly via email or through the form provided. I look forward to hearing from you!
 
                   </p>
                 </div>
